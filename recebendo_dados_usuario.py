@@ -35,4 +35,3 @@ print(f'A {nome} nasceu em {2022 - (idade)}')
 #Aspas duplas ->"Tatiane"
 #Aspas simples triplas ->'''Tatiane'''
 #Aspas duplas triplas ->"""Tatiane"""
-git 
