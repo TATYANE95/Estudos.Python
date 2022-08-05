@@ -4,6 +4,11 @@ Tipo Numérico
 # num = 45
 # print(num)
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+>>>>>>> 37b37d01e1ad2c8313205e37bd5674de9a16a014
 # num = {5 + 4}
 # print(num)
 
@@ -64,6 +69,11 @@ Tipo Numérico
 #num = num + 1
 #print(num)
 
+<<<<<<< HEAD
+=======
+
+=======
+>>>>>>> 37b37d01e1ad2c8313205e37bd5674de9a16a014
 # num = {5 + 4}
 # print(num)
 
@@ -109,39 +119,95 @@ Tipo Numérico
 #num = num + 1
 #print(num)
 
+<<<<<<< HEAD
+=======
+>>>>>>> e7452ecc761e30082bb603b6486a37443be52f8d
+>>>>>>> 37b37d01e1ad2c8313205e37bd5674de9a16a014
 #num = 23
 #num -= 1
 #print(num)
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> e7452ecc761e30082bb603b6486a37443be52f8d
+>>>>>>> 37b37d01e1ad2c8313205e37bd5674de9a16a014
 #num = 23
 #num *= 6
 #print(num)
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> e7452ecc761e30082bb603b6486a37443be52f8d
+>>>>>>> 37b37d01e1ad2c8313205e37bd5674de9a16a014
 #num = 23
 #num = num * 6
 #print(num)
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> e7452ecc761e30082bb603b6486a37443be52f8d
+>>>>>>> 37b37d01e1ad2c8313205e37bd5674de9a16a014
 #num = 23
 #num /= 8
 #print(num)
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> e7452ecc761e30082bb603b6486a37443be52f8d
+>>>>>>> 37b37d01e1ad2c8313205e37bd5674de9a16a014
 #num = 23
 #num = num / 8
 #print(num)
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> e7452ecc761e30082bb603b6486a37443be52f8d
+>>>>>>> 37b37d01e1ad2c8313205e37bd5674de9a16a014
 num = 23
 num //= 2
 print(num)
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+#num = 45
+#type(42) ou type(num) no terminal retorna o tipo de dado que estamos trabalhando.
+
+
+# num = 42
+# dir(num) no terminal retorna quais são as operações podemos realizar com num.
+# Ex: num.__add__(8) acrescentará 8 em num.
+=======
+>>>>>>> 37b37d01e1ad2c8313205e37bd5674de9a16a014
 #num = 45
 #type(42) ou type(num) no terminal retorna o tipo de dado que estamos trabalhando.
 
 # num = 42
 # dir(num) no terminal retorna quais são as operações podemos realizar com num.
 # Ex: num.__add__(8) acrescentará 8 em num.
+<<<<<<< HEAD
 #num = 45
 #type(42) ou type(num) no terminal retorna o tipo de dado que estamos trabalhando.
 
 # num = 42
 # dir(num) no terminal retorna quais são as operações podemos realizar com num.
 # Ex: num.__add__(8) acrescentará 8 em num.
+=======
+>>>>>>> e7452ecc761e30082bb603b6486a37443be52f8d
+>>>>>>> 37b37d01e1ad2c8313205e37bd5674de9a16a014

@@ -34,5 +34,9 @@ print(f'A {nome} nasceu em {2022 - (idade)}')
 #Aspas simples ->'Tatiane'
 #Aspas duplas ->"Tatiane"
 #Aspas simples triplas ->'''Tatiane'''
+<<<<<<< HEAD
 #Aspas duplas triplas ->"""Tatiane"""
 git 
+=======
+#Aspas duplas triplas ->"""Tatiane""".
+>>>>>>> 37b37d01e1ad2c8313205e37bd5674de9a16a014
